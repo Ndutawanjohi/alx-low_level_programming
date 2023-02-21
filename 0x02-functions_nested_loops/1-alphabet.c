@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * a function that prints the alphabet, in lowercase, followed by a new line.
@@ -6,9 +6,9 @@
  
 void print_alphabet(void)
 {
-    for (char ch = 'a'; ch <= 'z'; ch++)
+    for (char c = 'a'; c <= 'z'; c++)
     {
-       _putchar(ch);
+       _putchar(c);
     }
    _putchar('\n');
 }
