@@ -1,7 +1,7 @@
 #include "main.h"
 
-/** 
- * 0putchar
+/**
+ * my_function - This is a betty description
  */
 
 int main(void)
