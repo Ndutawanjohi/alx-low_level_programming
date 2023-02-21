@@ -2,7 +2,7 @@
 
 /**
  * main - function print putchar
- * return - always generate return type 0 meaning success
+ * return: always generate return type zero as  success
  */
 
 int main(void)
