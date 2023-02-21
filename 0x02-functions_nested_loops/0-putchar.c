@@ -1,6 +1,8 @@
 #include "main.h"
 
-/* 0putchar */
+/** 
+ * 0putchar
+ */
 
 int main(void)
 {
