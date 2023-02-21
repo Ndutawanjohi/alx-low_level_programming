@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - function print putchar
- * return: always generate return type zero as  success
+ * main - function print putchar then a new line
+ * Return: Always 0 (Success)
  */
 
 int main(void)
