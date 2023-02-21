@@ -2,7 +2,7 @@
 
 /**
  * main - function print putchar
- * This is a betty description
+ * return - always generate return type 0 meaning success
  */
 
 int main(void)
