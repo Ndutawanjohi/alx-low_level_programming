@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * my_function - This is a betty description
+ * main - function print putchar
+ * This is a betty description
  */
 
 int main(void)
