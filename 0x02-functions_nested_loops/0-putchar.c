@@ -1,5 +1,7 @@
 #include "main.h"
 
+/* 0putchar */
+
 int main(void)
 {
 	_putchar('_');
